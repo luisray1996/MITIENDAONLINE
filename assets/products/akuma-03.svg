@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 780">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4f4f4"/><stop offset="1" stop-color="#d8d8d8"/></linearGradient>
+ <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#161616"/><stop offset=".5" stop-color="#050505"/><stop offset="1" stop-color="#242424"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="700" height="780" fill="url(#bg)"/>
+<ellipse cx="350" cy="708" rx="205" ry="25" fill="#000" opacity=".18" filter="url(#shadow)"/>
+<path d="M238 155 L178 195 L112 252 L167 345 L219 300 L205 668 Q350 705 495 668 L481 300 L533 345 L588 252 L522 195 L462 155 Q427 195 350 195 Q273 195 238 155Z" fill="url(#shirt)"/>
+<path d="M292 170 Q350 214 408 170" fill="none" stroke="#444" stroke-width="10"/>
+<text x="350" y="340" text-anchor="middle" font-family="Arial,sans-serif" font-size="50" font-weight="900" fill="#fff" letter-spacing="8">MANGA</text>
+<text x="350" y="395" text-anchor="middle" font-family="Arial,sans-serif" font-size="58" font-weight="900" fill="#f51f86" letter-spacing="5">NIGHT</text>
+<circle cx="350" cy="480" r="72" fill="none" stroke="#f51f86" stroke-width="6" opacity=".85"/>
+<path d="M320 455 L350 425 L380 455 L370 500 L330 500Z" fill="#f51f86" opacity=".9"/>
+<text x="350" y="530" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff" letter-spacing="5">AKUMA STORE</text>
+<text x="350" y="590" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#aaa" letter-spacing="4">DROP M</text>
+</svg>
